@@ -38,5 +38,5 @@ v1.4:
 	
 v.1.4.1:
 
-	* Reworked the CD command to prompt the user for a path. \\ is still required since researching im still learning how to fix  that
+	* Reworked the CD command to prompt the user for a path. \\ is still required since researching im still learning how to fix  that - UPDATE 4/17/18: \\ doesn't seem to be required for some reason. If this breaks I'll update the update file
 	
