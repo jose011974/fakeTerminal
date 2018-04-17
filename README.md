@@ -29,6 +29,7 @@ v1.3:
 	* Added a Change Directory command, but can only go back a folder, or to the root drive. Switching to paths using \\ seems to work fine.
 
 v1.4:
+
 	* Reworked my code using tips from my CompSci Class
 	* Removed the login feature since it was pointless
 	* Fixed a bug that printed the subdirectory name in the diretory listing
@@ -37,5 +38,5 @@ v1.4:
 	
 v.1.4.1:
 
-	* Reworked the CD command to prompt the user for a path. \\ is still required since researching im still learning how to fix               that
+	* Reworked the CD command to prompt the user for a path. \\ is still required since researching im still learning how to fix  that
 	
