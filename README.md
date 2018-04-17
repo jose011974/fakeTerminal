@@ -1,2 +1,2 @@
 # fakeTerminal
-Just a small side program to improve my python skills.
+Used to update the fakeTerminal untill a final version can be pushed into master
