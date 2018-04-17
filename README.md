@@ -27,4 +27,16 @@ v1.3:
 	* Reworked the try else statement to let the user know if colorama isnt installed and gives the user directions to install a .whl 	  file if internet access is not available.
 	* Reworked the directory listing code once again to use recursion, and properly format the directory listing to my liking
 	* Moved bits of code - Renamed fileSize() to dir() etc.
-	* Added a Change Directory command, but can only go back a folder, or to the root drive. Switching to paths seems to work fine.
+	* Added a Change Directory command, but can only go back a folder, or to the root drive. Switching to paths using \\ seems to work  	      fine.
+
+v1.4:
+	* Reworked my code using tips from my CompSci Class
+	* Removed the login feature since it was pointless
+	* Fixed a bug that printed the subdirectory name in the diretory listing
+	* Added placeholder code for future games (not sure which games though)
+	* Added a system exception function to simplify the ooutput of a crash
+	
+v.1.4.1:
+
+	* Reworked the CD command to prompt the user for a path. \\ is still required since researching im still learning how to fix               that
+	
