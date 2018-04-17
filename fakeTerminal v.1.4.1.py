@@ -6,8 +6,6 @@ try:
     from stat import ST_SIZE, ST_MTIME
     from colorama import Fore, Back, Style, init
     init()
-    
-    print("test")
 
     print("Imported modules")
     time.sleep(3)
@@ -16,7 +14,7 @@ try:
         os.system("cls")
     else:
         os.system("clear")
-
+        
     print()
 
 except ImportError:
