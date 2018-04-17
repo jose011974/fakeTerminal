@@ -17,8 +17,6 @@ try:
     else:
         os.system("clear")
 
-    print()
-
 except ImportError:
 
     Continue = False
