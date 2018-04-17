@@ -6,6 +6,8 @@ try:
     from stat import ST_SIZE, ST_MTIME
     from colorama import Fore, Back, Style, init
     init()
+    
+    print(test)
 
     print("Imported modules")
     time.sleep(3)
